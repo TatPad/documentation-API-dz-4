@@ -302,7 +302,7 @@ components:
         age:
           type: integer
           description: Возраст пользователя
-          example: 30
+          example: 31
         isEmployee:
           type: boolean
           default: true
